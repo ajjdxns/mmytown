@@ -58,11 +58,19 @@
     transition: all 1s ease-in-out;
   }
 
+  .tip {
+    position: static;
+    font-size: 15px;
+    font-weight: 100;
+    color: var(--emlFontColor);
+    transition: all 1s ease-in-out;
+  }
+
   .home {
     position: static;
     font-size: 35px;
-    color: var(--black);
-    background-color: var(--defaultbg);
+    font-weight: 900;
+    color: var(--fontColor);
     transition: all 1s ease-in-out;
   }
 
