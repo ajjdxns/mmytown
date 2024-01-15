@@ -45,6 +45,18 @@
     transition: all 1s ease-in-out;
   }
   
+  .link{
+    top: auto;
+    left: auto;
+    height: auto;
+    width: auto;
+    border-radius: 15%;
+    border: none;
+    color: #0000ff;
+    background-color: var(--defaultbg);
+    transition: all 1s ease-in-out;
+  }
+
   .lik {
     position: static;
     top: 20px;
