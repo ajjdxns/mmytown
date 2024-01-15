@@ -58,6 +58,14 @@
     transition: all 1s ease-in-out;
   }
 
+  .home {
+    position: static;
+    font-size: 35px;
+    color: var(--black);
+    background-color: var(--defaultbg);
+    transition: all 1s ease-in-out;
+  }
+
   .light-theme {
     --defaultbg: var(--bg);
     --bg: var(--lightblue);
