@@ -67,6 +67,20 @@
     transition: all 1s ease-in-out;
   }
 
+  .default {
+    width: 75%;
+    margin: auto;
+  }
+
+  .text {
+    position: static;
+    font-size: 15px;
+    font-weight: 100;
+    text-align: center;
+    color: var(--FontColor);
+    transition: all 1s ease-in-out;
+  }
+
   .home {
     position: static;
     font-size: 35px;
