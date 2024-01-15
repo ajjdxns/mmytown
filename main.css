@@ -15,6 +15,10 @@
     transition: all 1s ease-in-out;
   }
   
+  .ero {
+    color: #f00
+  }
+
   li {
     list-style: circle;
   }
