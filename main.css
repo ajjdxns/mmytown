@@ -70,6 +70,19 @@
     transition: all 1s ease-in-out;
   }
 
+  .likd {
+    position: sticky;
+    top: 20px;
+    left: 250px;
+    height: 35px;
+    width: 75px;
+    border-radius: 15%;
+    border: none;
+    color: var(--black);
+    background-color: var(--defaultbg);
+    transition: all 1s ease-in-out;
+  }
+
   .tip {
     position: static;
     font-size: 15px;
@@ -112,7 +125,7 @@
   }
   
   .dark-theme {
-    --defaultbg: var(--darkbluebg);
+    --defaultbg: var(--lightblue);
     --bg: var(--darkblue);
     --fontColor: var(--white);
     --btnBg: var(--lightblue);
